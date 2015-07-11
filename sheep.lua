@@ -14,7 +14,6 @@ mobs:register_mob("mobs:sheep", {
 	textures = {
 		{"mobs_sheep_white.png"},
 	},
-	visual_size = {x=1,y=1},
 	gotten_texture = {"mobs_sheep_shaved.png"},
 	gotten_mesh = "mobs_sheep_shaved.b3d",
 	makes_footstep_sound = true,
